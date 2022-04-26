@@ -1,0 +1,22 @@
+{
+  "name": "bizmateseleniumlogin",
+  "version": "1.0.0",
+  "description": "Automate Login Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auzche/Bizmate_TechExam.git"
+  },
+  "author": "Mary Chris Auza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/auzche/Bizmate_TechExam/issues"
+  },
+  "homepage": "https://github.com/auzche/Bizmate_TechExam#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.1.1"
+  }
+}
